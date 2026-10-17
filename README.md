@@ -27,13 +27,6 @@
 
 > 🤖 모든 프로젝트는 Claude 등 생성형 AI와 협업해 제작했습니다.
 
-### 🧰 Tools
-![Clip Studio](https://img.shields.io/badge/Clip_Studio_Paint-CFD2D3?logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 
 <div align="center">
 <sub>오늘도 단추는 무언가를 만드는 중</sub>
