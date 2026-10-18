@@ -10,7 +10,7 @@
 
 ### 🎨 Draw
 팬아트와 오리지널 캐릭터를 그리는 일러스트레이터입니다.
-[Portfolio](링크) · [Commission (크레페)](링크)
+[Portfolio](https://danchu0000.netlify.app/) · [Commission (크레페)](https://crepe.cm/ko/@Sad_Danchu)
 
 ### 📐 Think
 산업디자인을 전공하며 익힌 리서치 → 문제 정의 → 시나리오 → 구조 설계의 흐름으로,
